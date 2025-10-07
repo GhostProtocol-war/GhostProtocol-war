@@ -1,41 +1,41 @@
-# **PROJETO FLATLINE**  
+# **PROYEK GAREH DATA**
 
-### 🌎 **ECONOMIA DO PROJETO**  
-- **Financiamento:**  
-  - Vende "**Almas Técnicas**" como NFTs (ex: `NFT #2301: Skill "Desvio de Água com Arduino"(sim, tem essa aqui)`)  
-- **Monetização:**  
-  - **Jogador Paga com:**  
-    - 1 tutorial de hacking  
-    - 1 meme viral  
-    - 1 história de trauma real  
-  - **Recebe:**  
-    - Novos ramos narrativos  
-    - Ferramentas digitais (ex: gerador de deepfake)  
-    - Tesouros Divinos(LLMs compactadas)
-
----
-
-### ☠️ **RISCO MORAL (FEATURE, NÃO BUG)**  
-> Se escolher o ramo **"Mercado Negro 2.0"**, você pode:  
-> - Transformar o app em **mercado de órgãos**  
-> - Usar trocas para **lavar bitcoins roubados**  
-> - **Consequência:** Teu avatar é caçado pelo Mossad (missão final: X1 contra Kidon)  
+### 🌎 **EKONOMI PROYEK** .
+- **Pendanaan:**
+- Publoe "**Jiwa Teknis**" seubagoe NFT (misal jih, `NFT #2301: Keterampilan "Pengalihan Ie ngon Arduino" (ya, na saboh di sinoe)`)
+- **Monetisasi:**
+- **Peumaen Bayeu ngon:**
+- 1 boh tutorial hack .
+- 1 boh meme viral
+- 1 boh kisah trauma nyang beutoi .
+- **Trimong:**
+- Cabang narasi baro .
+- Alat digital (misaljih, pembangkit palsu dalam)
+- Harta Ilahi (LLM nyang ka teupeukompres)
 
 ---
 
-### 📜 **LICENÇA: GPL-3.0 "NÃO ROUBE MAS SE ROUBAR, AVISA"**  
-```  
-Se usar ideias deste projeto:  
-1. Pode vender por $1 bi? PODE.
-2. Pode vender por 1 pizza? PODE.  
-2. Pode esconder o código? PODE, MAS VOCÊ SÓ NÃO VAI OUVIR O SOM DA ULTIMA TROMBETAAAA!!!!
+### ☠️ **BAHAYA MORAL (FITUR, BUKAN BUG)**
+> Meunyo neupileh cabang **"Pasar Hitam 2.0"**, jeut neu:
+> - Peugot app nyan jeut keu **pasar Organ** .
+> - Pakèk bursa keu **cuci bitcoin nyang jicue**
+> - **Akibat:** Avatar droeneuh diburu le Mossad (misi akhe: X1 lawan Kidon)
 
-```  
+---
 
---- 
+### 📜 **LISENS: GPL-3.0 "BEK NEUCURI, TAPI MEUNYOE NEUPEUBUET, LAPORAN"**
+```
+Meunyo neupakek ide dari proyek nyoe:
+1. Jeut neubloe ngon yum $1 miliar? GATA JEUT.
+2. Jeut neubloe ngon 1 boh pizza? GATA JEUT.
+2. Jeuet tapeusom kode nyan? JEUT, TAPI HAN NEUDEUNGOE SU TROMPET AKHE!!!!
 
-> **"FlatLine não é um jogo.  
-> É um espelho de Brasil pós-apocalíptico  
-> onde sua alma é o último token valioso."**  
+```
+
+---
+
+> **"FlatLine nyan kon saboh permainan.
+> Nyan cermin Brasil pasca apokaliptik .
+> dipat jiwa gata nakeuh tanda meuhareuga nyang akhé."**
 
 ---
